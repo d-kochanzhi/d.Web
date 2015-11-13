@@ -1,0 +1,4 @@
+C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\dz.web\dz.web\bin\Debug\dz.web.dll
+C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\dz.web\dz.web\bin\Debug\dz.web.pdb
+C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\dz.web\dz.web\obj\Debug\dz.web.dll
+C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\dz.web\dz.web\obj\Debug\dz.web.pdb
