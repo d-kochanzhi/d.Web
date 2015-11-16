@@ -6,3 +6,7 @@ C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\d.Web\d.Web\bin
 C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\d.Web\d.Web\bin\Debug\d.Web.pdb
 C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\d.Web\d.Web\obj\Debug\d.Web.dll
 C:\Users\dkochanzhi\Documents\Visual Studio 2013\Projects\dzsoft\d.Web\d.Web\obj\Debug\d.Web.pdb
+E:\YandexDisk\GitHub\d.Web\d.Web\obj\Debug\d.Web.dll
+E:\YandexDisk\GitHub\d.Web\d.Web\obj\Debug\d.Web.pdb
+E:\YandexDisk\GitHub\d.Web\d.Web\bin\Debug\d.Web.dll
+E:\YandexDisk\GitHub\d.Web\d.Web\bin\Debug\d.Web.pdb
